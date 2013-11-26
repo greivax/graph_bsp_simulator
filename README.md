@@ -28,3 +28,6 @@ line contains the following information for each partition of the graph:
   Amount of network communication sent from this partition.
   Amount of network communication received from this partition.
   Amount of network communication used in this partition for synchronzation.
+
+This simulator is used in the following article:
+http://dl.acm.org/citation.cfm?id=2516591
